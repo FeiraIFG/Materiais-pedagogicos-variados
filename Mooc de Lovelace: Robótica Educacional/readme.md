@@ -2,6 +2,8 @@ Acesso por: https://mooc.cefor.ifes.edu.br/moodle/enrol/index.php?id=441
 
 O Instituto Federal do Espírito Santo dispõe de vários cursos de temáticas Maker e tecnológicas em geral com abertura semestral. Há emissao de certificado ao final.
 
+Este curso faz parte de uma coletânea de materiais inspirados em Ada Lovelace:
+
 ![image](https://github.com/user-attachments/assets/edcf7478-c058-4d1b-86db-f792bb371066)
 
 ![image](https://github.com/user-attachments/assets/50158e65-303f-4b9a-ba2b-2bc77b71f197)
